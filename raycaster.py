@@ -7,7 +7,7 @@
 #
 
 import math
-from Tkinter import Tk, Canvas
+from tkinter import Tk, Canvas
 
 m = [ [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
       [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
